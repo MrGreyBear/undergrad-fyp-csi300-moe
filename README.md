@@ -3,7 +3,7 @@
 *Resolving the Lagging Paradox in Financial Forecasting: An Explainable Heterogeneous Mixture-of-Experts Framework* — Group 27.
 
 This folder is kept for the record only. It is **not** a reproducible research artefact.
-An audit (2026-10-28) found look-ahead bias and several illustrative figures that were not
+An audit found look-ahead bias and several illustrative figures that were not
 produced by the model; details are in `AUDIT.md`. The graduate-level reformulation
 (Semantic Mixture of Experts, leak-free pipeline) lives in a separate repository.
 

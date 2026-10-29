@@ -1,4 +1,4 @@
-# Audit of the undergraduate FYP code (2026-10-28)
+# Audit of the undergraduate FYP code
 
 Scope: every script in `archive/undergrad_fyp/code/` checked against the thesis
 `archive/undergrad_fyp/thesis/GROUP27JOJOyXIAOHUANGdeFYP.pdf`.
